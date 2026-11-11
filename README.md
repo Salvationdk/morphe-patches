@@ -3,6 +3,20 @@
 </p>
 
 # 👋🧩 Doom's Morphe Patches
+
+<!-- BEGIN: Salvationdk repository metrics -->
+**Statistik for denne fork** (ikke upstream-projektet):
+
+[![Release downloads](https://img.shields.io/github/downloads/Salvationdk/morphe-patches/total?label=Release%20downloads&style=flat-square)](https://github.com/Salvationdk/morphe-patches/releases)
+[![Stars](https://img.shields.io/github/stars/Salvationdk/morphe-patches?style=flat-square)](https://github.com/Salvationdk/morphe-patches/stargazers)
+[![Forks](https://img.shields.io/github/forks/Salvationdk/morphe-patches?style=flat-square)](https://github.com/Salvationdk/morphe-patches/forks)
+[![Issues](https://img.shields.io/github/issues/Salvationdk/morphe-patches?style=flat-square)](https://github.com/Salvationdk/morphe-patches/issues)
+[![Pull requests](https://img.shields.io/github/issues-pr/Salvationdk/morphe-patches?style=flat-square)](https://github.com/Salvationdk/morphe-patches/pulls)
+[![Last commit](https://img.shields.io/github/last-commit/Salvationdk/morphe-patches?style=flat-square)](https://github.com/Salvationdk/morphe-patches/commits)
+
+<sub>Release-downloads gælder kun GitHub Releases' vedhæftede filer. Besøg og kloninger ses via [Insights → Traffic](https://github.com/Salvationdk/morphe-patches/graphs/traffic) for autoriserede brugere.</sub>
+<!-- END: Salvationdk repository metrics -->
+
 <p align="center">
 
 ![GitHub Release](https://img.shields.io/github/v/release/rushiranpise/morphe-patches?style=for-the-badge)
